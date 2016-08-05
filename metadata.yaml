@@ -1,0 +1,30 @@
+_repo: Literary-and-Social-Essays_8108
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Curtis, George William
+    birthdate: 1824
+    deathdate: 1892
+    gutenberg_agent_id: '2048'
+    url: http://www.gutenberg.org/2009/agents/2048
+    wikipedia: http://en.wikipedia.org/wiki/George_William_Curtis
+description: ''
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8108'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature and society -- English-speaking countries'
+- !lcsh 'English literature -- History and criticism'
+- !lcc 'PS'
+- !lcsh 'American literature -- 19th century -- History and criticism'
+- GITenberg
+tableOfContents: Emerson -- Hawthorne -- The works of Nathaniel Hawthorne -- Rachel
+  -- Thackeray in America -- Sir Philip Sidney -- Longfellow -- Oliver Wendell Holmes
+  -- Washington Irving.
+title: Literary and Social Essays
+url: http://www.gutenberg.org/ebooks/8108
